@@ -1,0 +1,35 @@
+li#accordion-section-mega_store_companion_installer {
+    display: block !important;
+    background-color: #FFF;
+    margin: 12px;
+    border-radius: 6px;
+}
+
+.control-section-companion {
+    border-top: none;
+    border-bottom: 1px solid #ddd;
+    padding: 7px 14px 16px 14px;
+    text-align: right;
+}
+.control-section-companion p{
+	text-align:left;
+	margin-top:0;
+}
+
+
+.section-themefarmer-upsale {
+    display: block !important;
+    text-align: center;
+    padding: 10px 0 20px 0;
+    margin: 0;
+}
+
+.section-themefarmer-upsale #themefarmer-pro-button {
+    background-color: #00aeef;
+    text-decoration: none;
+    padding: 10px 15px;
+    color: #FFF;
+    border-radius: 2px;
+    border-bottom: 2px solid #0489bb;
+    display: inline-block;
+}
